@@ -23,7 +23,6 @@ I am a Student passionate about Machine Learning and Data Science <img src="http
 - 📚 Currently studying Machine Learning and Data Science
 - 🔬 Learning Data Analysis and Neural Networks
 - 💡 Exploring new technologies in AI/ML field
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-your--name-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
