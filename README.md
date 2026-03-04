@@ -1,82 +1,90 @@
-<div id="header" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100"/>
-  
-  <div id="badges">
-    <a href="https://t.me/din0zawrik">
-      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-    </a>
-    <a href="mailto:79103321517@yandex.ru">
-      <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
-    </a>
-  </div>
+<div align="center">
+
+[![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0c0c18,50:131220,100:0c0c18&height=180&section=header&text=DINOZAWRIK&fontColor=7c6fcd&fontSize=40&fontAlign=50&fontAlignY=50&desc=AI%20Engineer%20·%20RAG%20·%20Multi-Agent%20·%20LLMOps&descColor=a5b4fc&descSize=13&descAlignY=68)](https://github.com/DinoZawrik)
+
+</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&color=7c6fcd&width=700&lines=AI%2FML+Developer+%40+Sberbank+%E2%80%94+building+production-grade+intelligence)](https://git.io/typing-svg)
+
+&nbsp;
+
+AI Engineer working on production RAG systems and multi-agent architectures.  
+I care about systems that *ship*, not just systems that demo.
+
+---
+
+### Tech Stack
+
+**Core & ML**  
+![Python](https://img.shields.io/badge/Python-131220?style=flat-square&logo=python&logoColor=a5b4fc)
+![PyTorch](https://img.shields.io/badge/PyTorch-131220?style=flat-square&logo=pytorch&logoColor=a5b4fc)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-131220?style=flat-square&logo=huggingface&logoColor=a5b4fc)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-131220?style=flat-square&logo=scikit-learn&logoColor=a5b4fc)
+![OpenCV](https://img.shields.io/badge/OpenCV-131220?style=flat-square&logo=opencv&logoColor=a5b4fc)
+
+**LLM & Agents**  
+![LangChain](https://img.shields.io/badge/LangChain-131220?style=flat-square&logoColor=a5b4fc&color=131220&label=&labelColor=131220)
+[![LangChain](https://img.shields.io/badge/LangChain-131220?style=flat-square&logo=langchain&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+[![LangGraph](https://img.shields.io/badge/LangGraph-131220?style=flat-square&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-131220?style=flat-square&logo=openai&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+[![Anthropic](https://img.shields.io/badge/Anthropic-131220?style=flat-square&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+
+**Vector & Graph DB**  
+[![Qdrant](https://img.shields.io/badge/Qdrant-131220?style=flat-square&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-131220?style=flat-square&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+[![Weaviate](https://img.shields.io/badge/Weaviate-131220?style=flat-square&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+[![Neo4j](https://img.shields.io/badge/Neo4j-131220?style=flat-square&logo=neo4j&logoColor=a5b4fc)](https://github.com/DinoZawrik)
+
+**Infra**  
+![FastAPI](https://img.shields.io/badge/FastAPI-131220?style=flat-square&logo=fastapi&logoColor=a5b4fc)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-131220?style=flat-square&logo=postgresql&logoColor=a5b4fc)
+![Redis](https://img.shields.io/badge/Redis-131220?style=flat-square&logo=redis&logoColor=a5b4fc)
+![Docker](https://img.shields.io/badge/Docker-131220?style=flat-square&logo=docker&logoColor=a5b4fc)
+![Git](https://img.shields.io/badge/Git-131220?style=flat-square&logo=git&logoColor=a5b4fc)
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats-phs.vercel.app/api?username=DinoZawrik&show_icons=true&count_private=true&hide=prs,issues&theme=algolia&rank_icon=github&icon_color=7c6fcd&title_color=7c6fcd&text_color=a5b4fc&bg_color=0d1117&border_color=7c6fcd30)](https://github.com/DinoZawrik)
+[![Top Languages](https://github-readme-stats-phs.vercel.app/api/top-langs/?username=DinoZawrik&layout=compact&count_private=true&hide=Jupyter%20Notebook,HTML&title_color=7c6fcd&text_color=a5b4fc&bg_color=0d1117&border_color=7c6fcd30)](https://github.com/DinoZawrik)
+
 </div>
 
 ---
 
-## About Me
+### Experience
 
-**Data Scientist** specializing in AI/ML, LLM-powered systems, and Computer Vision <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+`@ Sberbank`
 
-- Working on AI agents and RAG systems in production environments
-- Exploring Computer Vision applications and deep learning architectures
-- Specialized in LLM applications, multi-agent systems, and intelligent document processing
-- Bachelor's student in Artificial Intelligence and Data Analysis
-- Building production-ready ML solutions with modern MLOps practices
-- Focus areas: RAG architectures, agentic workflows, hybrid search, image processing
+**Main GigaChat Assistant**  
+LangGraph-based multi-agent routing system with classification models and external service integrations.  
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=a5b4fc)
+![GigaChat](https://img.shields.io/badge/GigaChat-0d1117?style=flat-square&logoColor=a5b4fc)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent-0d1117?style=flat-square&logoColor=a5b4fc)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a5b4fc)
 
----
+**Legal-RAG**  
+Production RAG pipeline for Russian legal documents with hybrid vector + BM25 retrieval and re-ranking.  
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=a5b4fc)
+![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logoColor=a5b4fc)
+![BM25](https://img.shields.io/badge/BM25-0d1117?style=flat-square&logoColor=a5b4fc)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=a5b4fc)
 
-## Tech Stack
+&nbsp;
 
-### Core ML & Data Science
-<div>
-  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>
-</div>
+`Pet Projects`
 
-### LLM & Agentic AI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
+**Speaker Diarization**  
+Automated speaker identification via VAD, embedding extraction and clustering.  
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=7c6fcd)
+![VAD](https://img.shields.io/badge/VAD-0d1117?style=flat-square&logoColor=7c6fcd)
+![Audio ML](https://img.shields.io/badge/Audio_ML-0d1117?style=flat-square&logoColor=7c6fcd)
 
-### Vector & Graph Databases
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00C58E?style=for-the-badge)
-
-### Backend & Infrastructure
-<div>
-  <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="40" height="40"/>
-</div>
-
----
-
-## Development Direction
-
-Deepening expertise across multiple AI domains with focus on production systems. Current directions:
-
-- Advanced RAG architectures and multi-agent systems for complex reasoning tasks
-- Computer Vision applications: object detection, segmentation, multimodal learning
-- Scalable ML infrastructure and MLOps practices for enterprise applications
-- Research in agentic AI, long-context processing, and knowledge graph integration
-- Building robust evaluation frameworks for LLM and CV applications
-
----
-
-## Get In Touch
-
-- Telegram: [@din0zawrik](https://t.me/din0zawrik)
-- Email: 79103321517@yandex.ru
-- Location: Moscow, Russia
+**Vehicle Damage Detection**  
+Computer vision pipeline for automated vehicle damage assessment and classification.  
+![YOLOv8](https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logoColor=7c6fcd)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=7c6fcd)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=7c6fcd)
