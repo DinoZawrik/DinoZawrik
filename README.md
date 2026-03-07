@@ -61,21 +61,3 @@
 &nbsp;&nbsp;**→ Vehicle Damage Detection** — Computer vision pipeline for automated damage assessment and classification.
 
 &nbsp;&nbsp;![YOLOv8](https://img.shields.io/badge/YOLOv8-161b22?style=flat-square&logoColor=6c5fcf) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=6c5fcf) ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=6c5fcf)
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=DinoZawrik&hide_border=true&background=0D1117&stroke=21262d&ring=c5b8ff&fire=9d8fef&currStreakLabel=c5b8ff&sideLabels=9d8fef&currStreakNum=c5b8ff&sideNums=9d8fef&dates=7c6fcd&mode=weekly"/>
-
-</div>
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DinoZawrik&bg_color=0d1117&color=c5b8ff&line=7c6fcd&point=c5b8ff&area=true&area_color=7c6fcd&hide_border=true" width="100%"/>
-
-</div>
