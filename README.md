@@ -2,12 +2,6 @@
 <img src="./banner.svg" width="100%" alt="banner"/>
 </div>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1200&color=7C6FCD&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+with+LLMs;Multi-Agent+Architectures+%7C+LangGraph+%7C+FastAPI;RAG+Pipelines+%7C+Vector+Search+%7C+Re-ranking;From+research+to+production+%40+Sberbank)](https://git.io/typing-svg)
-
-</div>
-
 &nbsp;
 
 ---
@@ -25,7 +19,7 @@
 <div align="center">
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&color=2d1f6e&logoColor=c5b8ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-2d1f6e?style=for-the-badge&logoColor=c5b8ff)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
@@ -46,45 +40,27 @@
 
 ### Experience
 
-**`@ Sberbank`**
+**Sberbank** &nbsp;·&nbsp; AI Engineer
 
-&nbsp;
+&nbsp;&nbsp;**→ Main GigaChat Assistant** — Multi-agent routing system with LangGraph, classification models and external service integrations.
 
-`▸` **Main GigaChat Assistant** — LangGraph-based multi-agent routing system with classification models and external service integrations.
+&nbsp;&nbsp;![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=9d8fef) ![GigaChat](https://img.shields.io/badge/GigaChat-161b22?style=flat-square&logoColor=9d8fef) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-161b22?style=flat-square&logoColor=9d8fef) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
 
-![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=9d8fef)
-![GigaChat](https://img.shields.io/badge/GigaChat-161b22?style=flat-square&logoColor=9d8fef)
-![Multi-Agent](https://img.shields.io/badge/Multi--Agent-161b22?style=flat-square&logoColor=9d8fef)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
+&nbsp;&nbsp;**→ Legal-RAG** — Production RAG pipeline for Russian legal documents. Hybrid vector + BM25 retrieval with re-ranking.
 
-&nbsp;
-
-`▸` **Legal-RAG** — Production RAG pipeline for Russian legal documents with hybrid vector + BM25 retrieval and re-ranking.
-
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logoColor=9d8fef)
-![Qdrant](https://img.shields.io/badge/Qdrant-161b22?style=flat-square&logoColor=9d8fef)
-![BM25](https://img.shields.io/badge/BM25-161b22?style=flat-square&logoColor=9d8fef)
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
+&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logoColor=9d8fef) ![Qdrant](https://img.shields.io/badge/Qdrant-161b22?style=flat-square&logoColor=9d8fef) ![BM25](https://img.shields.io/badge/BM25-161b22?style=flat-square&logoColor=9d8fef) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
 
 ---
 
-**`Pet Projects`**
+**Pet Projects**
 
-&nbsp;
+&nbsp;&nbsp;**→ Speaker Diarization** — Automated speaker identification via VAD, embedding extraction and clustering.
 
-`▸` **Speaker Diarization** — Automated speaker identification via VAD, embedding extraction and clustering.
+&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=6c5fcf) ![VAD](https://img.shields.io/badge/VAD-161b22?style=flat-square&logoColor=6c5fcf) ![Audio ML](https://img.shields.io/badge/Audio_ML-161b22?style=flat-square&logoColor=6c5fcf)
 
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=6c5fcf)
-![VAD](https://img.shields.io/badge/VAD-161b22?style=flat-square&logoColor=6c5fcf)
-![Audio ML](https://img.shields.io/badge/Audio_ML-161b22?style=flat-square&logoColor=6c5fcf)
+&nbsp;&nbsp;**→ Vehicle Damage Detection** — Computer vision pipeline for automated damage assessment and classification.
 
-&nbsp;
-
-`▸` **Vehicle Damage Detection** — Computer vision pipeline for automated vehicle damage assessment and classification.
-
-![YOLOv8](https://img.shields.io/badge/YOLOv8-161b22?style=flat-square&logoColor=6c5fcf)
-![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=6c5fcf)
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=6c5fcf)
+&nbsp;&nbsp;![YOLOv8](https://img.shields.io/badge/YOLOv8-161b22?style=flat-square&logoColor=6c5fcf) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=6c5fcf) ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=6c5fcf)
 
 ---
 
@@ -93,16 +69,6 @@
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=DinoZawrik&hide_border=true&background=0D1117&stroke=21262d&ring=c5b8ff&fire=9d8fef&currStreakLabel=c5b8ff&sideLabels=9d8fef&currStreakNum=c5b8ff&sideNums=9d8fef&dates=7c6fcd&mode=weekly"/>
-
-</div>
-
-&nbsp;
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DinoZawrik&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=c5b8ff&text_color=9d8fef&icon_color=7c6fcd&ring_color=7c6fcd" height="155"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoZawrik&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css&bg_color=0d1117&title_color=c5b8ff&text_color=9d8fef&langs_count=6" height="155"/>
 
 </div>
 
