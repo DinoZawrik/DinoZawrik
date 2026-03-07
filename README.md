@@ -42,25 +42,25 @@
 
 **Sberbank** &nbsp;·&nbsp; AI Engineer
 
-&nbsp;&nbsp;**→ Main GigaChat Assistant** — Multi-agent routing system with LangGraph, classification models and external service integrations.
+&nbsp;&nbsp;**→ Main GigaChat Assistant** — Production multi-agent routing system on LangGraph with BERT-based intent classification, Kafka event streaming and SSE responses.
 
-&nbsp;&nbsp;![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=9d8fef) ![GigaChat](https://img.shields.io/badge/GigaChat-161b22?style=flat-square&logoColor=9d8fef) ![Multi-Agent](https://img.shields.io/badge/Multi--Agent-161b22?style=flat-square&logoColor=9d8fef) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
+&nbsp;&nbsp;![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=9d8fef) ![GigaChat](https://img.shields.io/badge/GigaChat-161b22?style=flat-square&logoColor=9d8fef) ![BERT](https://img.shields.io/badge/BERT-161b22?style=flat-square&logoColor=9d8fef) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=9d8fef) ![Langfuse](https://img.shields.io/badge/Langfuse-161b22?style=flat-square&logoColor=9d8fef) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
 
-&nbsp;&nbsp;**→ Legal-RAG** — Production RAG pipeline for Russian legal documents. Hybrid vector + BM25 retrieval with re-ranking.
+&nbsp;&nbsp;**→ Legal-RAG** — RAG pipeline for Russian legal documents. Hybrid BM25+vector (60/40) retrieval, Neo4j Graph RAG, BGE reranker. 97.5% accuracy on benchmark.
 
-&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logoColor=9d8fef) ![Qdrant](https://img.shields.io/badge/Qdrant-161b22?style=flat-square&logoColor=9d8fef) ![BM25](https://img.shields.io/badge/BM25-161b22?style=flat-square&logoColor=9d8fef) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
+&nbsp;&nbsp;![LangGraph](https://img.shields.io/badge/LangGraph-161b22?style=flat-square&logoColor=9d8fef) ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat-square&logoColor=9d8fef) ![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat-square&logo=neo4j&logoColor=9d8fef) ![BM25](https://img.shields.io/badge/BM25-161b22?style=flat-square&logoColor=9d8fef) ![BGE_Reranker](https://img.shields.io/badge/BGE_Reranker-161b22?style=flat-square&logoColor=9d8fef) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=9d8fef)
 
 ---
 
 **Pet Projects**
 
-&nbsp;&nbsp;**→ Speaker Diarization** — Automated speaker identification via VAD, embedding extraction and clustering.
+&nbsp;&nbsp;**→ Speaker Diarization** — Call centre recording analysis: speaker diarization with Whisper, per-turn sentiment scoring, emotion detection and compliance checking.
 
-&nbsp;&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=6c5fcf) ![VAD](https://img.shields.io/badge/VAD-161b22?style=flat-square&logoColor=6c5fcf) ![Audio ML](https://img.shields.io/badge/Audio_ML-161b22?style=flat-square&logoColor=6c5fcf)
+&nbsp;&nbsp;![Whisper](https://img.shields.io/badge/Whisper-161b22?style=flat-square&logoColor=6c5fcf) ![PyDub](https://img.shields.io/badge/PyDub-161b22?style=flat-square&logoColor=6c5fcf) ![Streamlit](https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=6c5fcf) ![Plotly](https://img.shields.io/badge/Plotly-161b22?style=flat-square&logo=plotly&logoColor=6c5fcf) ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=6c5fcf)
 
-&nbsp;&nbsp;**→ Vehicle Damage Detection** — Computer vision pipeline for automated damage assessment and classification.
+&nbsp;&nbsp;**→ Vehicle Damage Detection** — YOLOv8 pipeline for vehicle damage assessment with severity classification and repair cost estimation. React + FastAPI.
 
-&nbsp;&nbsp;![YOLOv8](https://img.shields.io/badge/YOLOv8-161b22?style=flat-square&logoColor=6c5fcf) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=6c5fcf) ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=6c5fcf)
+&nbsp;&nbsp;![YOLOv8](https://img.shields.io/badge/YOLOv8-161b22?style=flat-square&logoColor=6c5fcf) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=6c5fcf) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=6c5fcf) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=6c5fcf) ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=6c5fcf)
 
 ---
 
