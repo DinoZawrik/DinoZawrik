@@ -2,47 +2,45 @@
 <img src="./banner.svg" width="100%" alt="banner"/>
 </div>
 
-&nbsp;
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=13&duration=3000&pause=1200&color=7C6FCD&center=true&vCenter=true&width=600&lines=Building+intelligent+systems+with+LLMs;Multi-Agent+Architectures+%7C+LangGraph+%7C+FastAPI;RAG+Pipelines+%7C+Vector+Search+%7C+Re-ranking;From+research+to+production+%40+Sberbank)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+New&size=14&duration=3000&pause=1200&color=7C6FCD&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+with+LLMs;Multi-Agent+Architectures+%7C+LangGraph+%7C+FastAPI;RAG+Pipelines+%7C+Vector+Search+%7C+Re-ranking;From+research+to+production+%40+Sberbank)](https://git.io/typing-svg)
 
 </div>
 
 &nbsp;
 
+---
+
 ### Tech Stack
 
-**Core & ML**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=c5b8ff)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=c5b8ff)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=c5b8ff)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=c5b8ff)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=c5b8ff)
+[![Skills](https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,docker,git,opencv&theme=dark&perline=8)](https://skillicons.dev)
 
-**LLM & Agents**
+</div>
 
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logoColor=c5b8ff)
-![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&logoColor=c5b8ff)
-![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=c5b8ff)
-![Anthropic](https://img.shields.io/badge/Anthropic-0d1117?style=flat-square&logoColor=c5b8ff)
+&nbsp;
 
-**Vector & Graph DB**
+<div align="center">
 
-![Qdrant](https://img.shields.io/badge/Qdrant-0d1117?style=flat-square&logoColor=c5b8ff)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0d1117?style=flat-square&logoColor=c5b8ff)
-![Weaviate](https://img.shields.io/badge/Weaviate-0d1117?style=flat-square&logoColor=c5b8ff)
-![Neo4j](https://img.shields.io/badge/Neo4j-0d1117?style=flat-square&logo=neo4j&logoColor=c5b8ff)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0d1117?style=for-the-badge&color=2d1f6e&logoColor=c5b8ff)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=111)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-**Infra**
+</div>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=c5b8ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=c5b8ff)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=c5b8ff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=c5b8ff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=c5b8ff)
+<div align="center">
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C58E?style=for-the-badge&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+</div>
 
 ---
 
@@ -94,9 +92,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DinoZawrik&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=c5b8ff&text_color=9d8fef&icon_color=7c6fcd&ring_color=7c6fcd&cache_seconds=86400" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoZawrik&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css&bg_color=0d1117&title_color=c5b8ff&text_color=9d8fef&langs_count=6&cache_seconds=86400" height="160"/>
+<img src="https://streak-stats.demolab.com?user=DinoZawrik&hide_border=true&background=0D1117&stroke=21262d&ring=c5b8ff&fire=9d8fef&currStreakLabel=c5b8ff&sideLabels=9d8fef&currStreakNum=c5b8ff&sideNums=9d8fef&dates=7c6fcd&mode=weekly"/>
 
 </div>
 
@@ -104,7 +100,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=DinoZawrik&hide_border=true&background=0D1117&stroke=21262d&ring=c5b8ff&fire=9d8fef&currStreakLabel=c5b8ff&sideLabels=9d8fef&currStreakNum=c5b8ff&sideNums=9d8fef&dates=7c6fcd&mode=weekly"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DinoZawrik&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=c5b8ff&text_color=9d8fef&icon_color=7c6fcd&ring_color=7c6fcd" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DinoZawrik&layout=compact&hide_border=true&hide=jupyter%20notebook,html,css&bg_color=0d1117&title_color=c5b8ff&text_color=9d8fef&langs_count=6" height="155"/>
 
 </div>
 
