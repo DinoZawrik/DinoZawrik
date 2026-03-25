@@ -67,6 +67,6 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-iota-azure-81.vercel.app/api?username=DinoZawrik&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&icon_color=7c6fcd&title_color=c5b8ff&text_color=9d8fef&bg_color=0d1117&border_color=21262d" height="150" />
-  <img src="https://github-readme-stats-iota-azure-81.vercel.app/api/top-langs/?username=DinoZawrik&layout=compact&count_private=true&hide=Jupyter%20Notebook,HTML,CSS&icon_color=7c6fcd&title_color=c5b8ff&text_color=9d8fef&bg_color=0d1117&border_color=21262d" height="150" />
+  <img src="https://github-readme-stats-iota-azure-81.vercel.app/api?username=DinoZawrik&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&icon_color=7c6fcd&title_color=c5b8ff&text_color=9d8fef&bg_color=0d1117&border_color=21262d&v=2" height="150" />
+  <img src="https://github-readme-stats-iota-azure-81.vercel.app/api/top-langs/?username=DinoZawrik&layout=compact&count_private=true&hide=Jupyter%20Notebook,HTML,CSS&icon_color=7c6fcd&title_color=c5b8ff&text_color=9d8fef&bg_color=0d1117&border_color=21262d&v=2" height="150" />
 </div>
