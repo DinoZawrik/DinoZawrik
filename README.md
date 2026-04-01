@@ -61,12 +61,3 @@
 &nbsp;&nbsp;**→ Vehicle Damage Detection** — YOLOv8 pipeline for vehicle damage assessment with severity classification and repair cost estimation. React + FastAPI.
 
 &nbsp;&nbsp;![YOLOv8](https://img.shields.io/badge/YOLOv8-161b22?style=flat-square&logoColor=6c5fcf) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=6c5fcf) ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=6c5fcf) ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=6c5fcf) ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=6c5fcf)
-
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-iota-azure-81.vercel.app/api?username=DinoZawrik&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues&rank_icon=github&icon_color=7c6fcd&title_color=c5b8ff&text_color=9d8fef&bg_color=0d1117&border_color=21262d&v=2" height="150" />
-  <img src="https://github-readme-stats-iota-azure-81.vercel.app/api/top-langs/?username=DinoZawrik&layout=compact&count_private=true&hide=Jupyter%20Notebook,HTML,CSS&icon_color=7c6fcd&title_color=c5b8ff&text_color=9d8fef&bg_color=0d1117&border_color=21262d&v=2" height="150" />
-</div>
